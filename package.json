@@ -1,6 +1,6 @@
 {
-    "name": "phoenix",
-    "displayName": "Phoenix",
+    "name": "vscode-phoenix-theme",
+    "displayName": "Phoenix Theme for VSCode",
     "description": "A fiery dark theme",
     "version": "1.0.0",
     "icon": "images/Phoenix.png",
