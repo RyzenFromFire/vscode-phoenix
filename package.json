@@ -1,24 +1,21 @@
 {
-    "name": "andromeda",
-    "displayName": "Andromeda",
-    "description": "Dark theme with a taste of the universe",
-    "version": "1.8.1",
-    "icon": "images/icon.png",
+    "name": "phoenix",
+    "displayName": "Phoenix",
+    "description": "A fiery dark theme",
+    "version": "1.0.0",
+    "icon": "images/Phoenix.png",
     "galleryBanner": {
-        "color": "#23262E",
+        "color": "#fe750e",
         "theme": "dark"
     },
-    "publisher": "EliverLara",
+    "publisher": "RyzenFromFire",
     "author": {
-        "name": "ELiver Lara",
-        "url": "https://github.com/EliverLara",
-        "email": "eliverlara@gmail.com"
+        "name": "RyzenFromFire",
+        "url": "https://github.com/RyzenFromFire",
+        "email": "ryzenfromfire@gmail.com"
     },
     "repository": {
-        "url": "https://github.com/EliverLara/Andromeda"
-    },
-    "sponsor": {
-        "url": "https://github.com/sponsors/EliverLara"
+        "url": "https://github.com/RyzenFromFire/vscode-phoenix"
     },
     "engines": {
         "vscode": "^1.14.0"
@@ -29,29 +26,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Andromeda",
+                "label": "Phoenix",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Andromeda-color-theme.json"
-            },
-            {
-                "label": "Andromeda Bordered",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Andromeda-color-theme-bordered.json"
-            },
-            {
-                "label": "Andromeda Italic Bordered",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Andromeda-italic-color-theme-bordered.json"
-            },
-            {
-                "label": "Andromeda Italic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Andromeda-italic-color-theme.json"
-            },
-            {
-                "label": "Andromeda Colorizer",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Andromeda-colorizer.json"
+                "path": "./themes/Phoenix-color-theme.json"
             }
         ]
     }
