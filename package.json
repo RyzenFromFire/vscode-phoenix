@@ -2,7 +2,7 @@
     "name": "vscode-phoenix-theme",
     "displayName": "Phoenix Theme for VSCode",
     "description": "A fiery dark theme",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "images/Phoenix.png",
     "galleryBanner": {
         "color": "#fe750e",
